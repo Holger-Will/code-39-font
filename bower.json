@@ -1,0 +1,29 @@
+{
+  "name": "code-39-font",
+  "homepage": "https://github.com/Holger-Will/code-39-font",
+  "authors": [
+    "Holger Will <h.will@klimapartner.de>"
+  ],
+  "description": "code 39 barcode font",
+  "main": "code39_all.css",
+  "keywords": [
+    "code39",
+    "code 39",
+    "code",
+    "39",
+    "barcode",
+    "font",
+    "webfont",
+    "ttf",
+    "woff",
+    "svg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
