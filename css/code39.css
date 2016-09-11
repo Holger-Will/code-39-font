@@ -1,0 +1,2 @@
+@font-face { font-family: 'code39'; src: url('../fonts/code39.woff'); }
+.code_39 { font-family: code39; font-size:22px }

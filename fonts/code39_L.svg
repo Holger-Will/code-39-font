@@ -1,0 +1,62 @@
+L
+<svg xmlns="http://www.w3.org/2000/svg">
+  <font id = "code128_L"
+        horiz-adv-x   = "1600"
+        vert-origin-x = "0"
+        vert-origin-y = "0" >
+    <font-face font-family  = "code39_L"
+               font-weight  = "normal"
+               units-per-em = "3300"
+               cap-height   = "3300"
+               x-height     = "3300"
+               bbox         = "0 0 3300 3300">
+      <font-face-src>
+        <font-face-name name="code39_L"/>
+      </font-face-src>
+    </font-face>
+    <glyph unicode = "&#32;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 300 V 3300 h -300 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#36;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#37;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#42;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 300 V 3300 h -300 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#43;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#45;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 300 V 3300 h -300 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#46;" d = "M 0, 0 h 300 V 3300 h -300 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#47;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#48;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 600, 0 h 300 V 3300 h -300 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#49;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#50;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#51;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 300 V 3300 h -300 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#52;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 600, 0 h 300 V 3300 h -300 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#53;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 800, 0 h 300 V 3300 h -300 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#54;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 800, 0 h 300 V 3300 h -300 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#55;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 300 V 3300 h -300 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#56;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#57;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#65;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#66;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 600, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#67;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 300 V 3300 h -300 z M 800, 0 h 100 V 3300 h -100 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#68;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 400, 0 h 300 V 3300 h -300 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#69;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 300 V 3300 h -300 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#70;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 600, 0 h 300 V 3300 h -300 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#71;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 800, 0 h 300 V 3300 h -300 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#72;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#73;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 600, 0 h 100 V 3300 h -100 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#74;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 400, 0 h 300 V 3300 h -300 z M 1000, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#75;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#76;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#77;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 300 V 3300 h -300 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#78;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 400, 0 h 300 V 3300 h -300 z M 800, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#79;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 300 V 3300 h -300 z M 1000, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#80;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 600, 0 h 300 V 3300 h -300 z M 1000, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#81;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 300 V 3300 h -300 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#82;" d = "M 0, 0 h 300 V 3300 h -300 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#83;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 300 V 3300 h -300 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#84;" d = "M 0, 0 h 100 V 3300 h -100 z M 200, 0 h 100 V 3300 h -100 z M 400, 0 h 300 V 3300 h -300 z M 800, 0 h 300 V 3300 h -300 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#85;" d = "M 0, 0 h 300 V 3300 h -300 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#86;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 300 V 3300 h -300 z M 800, 0 h 100 V 3300 h -100 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#87;" d = "M 0, 0 h 300 V 3300 h -300 z M 600, 0 h 300 V 3300 h -300 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#88;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 100 V 3300 h -100 z M 600, 0 h 300 V 3300 h -300 z M 1000, 0 h 100 V 3300 h -100 z M 1200, 0 h 300 V 3300 h -300 z" />
+    <glyph unicode = "&#89;" d = "M 0, 0 h 300 V 3300 h -300 z M 600, 0 h 100 V 3300 h -100 z M 800, 0 h 300 V 3300 h -300 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+    <glyph unicode = "&#90;" d = "M 0, 0 h 100 V 3300 h -100 z M 400, 0 h 300 V 3300 h -300 z M 800, 0 h 300 V 3300 h -300 z M 1200, 0 h 100 V 3300 h -100 z M 1400, 0 h 100 V 3300 h -100 z" />
+  </font>
+</svg>
