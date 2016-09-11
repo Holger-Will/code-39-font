@@ -3,8 +3,8 @@
 @font-face { font-family: 'code39_L'; src: url('fonts/code39_L.woff'); }
 @font-face { font-family: 'code39_XL'; src: url('fonts/code39_XL.woff'); }
 @font-face { font-family: 'code39_XXL'; src: url('fonts/code39_XXL.woff'); }
-.code_39_S { font-family: code39_S; font-size:11px }
-.code_39 { font-family: code39; font-size:22px }
-.code_39_L { font-family: code39_L; font-size:33px }
-.code_39_XL { font-family: code39_XL; font-size:44px }
-.code_39_XXL { font-family: code39_XXL; font-size:55px }
+.code_39_S { font-family: code39_S; font-size:22px }
+.code_39 { font-family: code39; font-size:44px }
+.code_39_L { font-family: code39_L; font-size:66px }
+.code_39_XL { font-family: code39_XL; font-size:88px }
+.code_39_XXL { font-family: code39_XXL; font-size:110px }
