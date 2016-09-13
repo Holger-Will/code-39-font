@@ -7,7 +7,7 @@ The code 39 font can be used to render code39 encoded strings.
 The font is available in 5 different height to width ratios.
 (Usually i use code39_XL)
 
-if you need other height to width ratios, you can generate your own font using the [barcode font generator](test)
+if you need other height to width ratios, you can generate your own font using the [barcode font generator](https://github.com/Holger-Will/barcode-font-generator)
 
 | name | height to width ratio | font size to get 1px wide bars |
 | --- | --- | --- |
